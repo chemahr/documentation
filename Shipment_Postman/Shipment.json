@@ -39,13 +39,13 @@
               {
                 "key": "Content-Type",
                 "name": "Content-Type",
-                "value": "application/json",
-                "type": "text"
+                "type": "text",
+                "value": "application/json"
               },
               {
                 "key": "X-Request-Context",
-                "value": "{\"platform\":\"PRO\", \"platform_country\":\"ES\", \"client_id\":\"376d15b7-31b5-40e7-8269-f69ea261a135\", \"user_id\":\"852d44e0-974f-4ea2-91ab-7dcc438c76b0\"}",
-                "type": "text"
+                "type": "text",
+                "value": "{\"platform\":\"PRO\", \"platform_country\":\"ES\", \"client_id\":\"376d15b7-31b5-40e7-8269-f69ea261a135\", \"user_id\":\"852d44e0-974f-4ea2-91ab-7dcc438c76b0\"}"
               }
             ],
             "body": {
