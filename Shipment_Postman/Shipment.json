@@ -28,7 +28,7 @@
           "response": []
         },
         {
-          "name": "Create New Shipment",
+          "name": "Create Shipment",
           "_postman_id": "71ee5833-53be-461f-aba5-63365cf3c048",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
