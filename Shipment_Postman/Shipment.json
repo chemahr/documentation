@@ -23,7 +23,8 @@
                 "type": "text"
               }
             ],
-            "url": "{{SCHEMA}}://{{HOST_SHIPMENT}}/api/shipments"
+            "url": "{{SCHEMA}}://{{HOST_SHIPMENT}}/api/shipments",
+            "description": "Get all shipments"
           },
           "response": []
         },
